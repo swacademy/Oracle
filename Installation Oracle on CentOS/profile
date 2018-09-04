@@ -1,5 +1,0 @@
-export ORACLE_BASE=/opt/oracle
-export ORACLE_HOME=$ORACLE_BASE/product/11.2.0/dbhome_1
-export ORACLE_SID=orcl
-export LD_LIBRARY_PATH=$LD_LIBRARY_PATH:$ORACLE_HOME/lib
-export PATH=$PATH:$ORACLE_HOME/bin
