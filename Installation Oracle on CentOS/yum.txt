@@ -1,1 +1,0 @@
-yum -y install binutils-2.* compat-libcap1-1.*compat-libstdc++-33-3.* elfutils-libelf* gcc-4.* gcc-c++-4.* glibc-2.* glibc-common-2.* glibc-devel-2.* glibc-headers-2.* ksh* libaio-0.* libaio-devel-0.* libgcc-4.* libgomp-4.* libstdc++-4.* libstdc++-devel-4.* make-3.* sysstat-9.* unixODBC-2.* unixODBC-devel-2.* pdksh*
